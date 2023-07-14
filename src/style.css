@@ -5,7 +5,7 @@
 
 @font-face {
   font-family: 'Timmy';
-  src: url('./assets/Timmy-Regular.woff2') format('woff2');
+  src: url('../assets/Timmy-Regular.woff2') format('woff2');
 } 
 
 * {
